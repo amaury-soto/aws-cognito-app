@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-authcognito-dev-133243-authRole",
+      "UnauthRoleArn": "arn:aws:iam::186549780741:role/amplify-authcognito-dev-133243-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::186549780741:role/amplify-authcognito-dev-133243-authRole",
+      "Region": "us-west-2",
+      "DeploymentBucketName": "amplify-authcognito-dev-133243-deployment",
+      "UnauthRoleName": "amplify-authcognito-dev-133243-unauthRole",
+      "StackName": "amplify-authcognito-dev-133243",
+      "StackId": "arn:aws:cloudformation:us-west-2:186549780741:stack/amplify-authcognito-dev-133243/c70f5da0-4349-11ed-8503-0633033da6bb",
+      "AmplifyAppId": "d2l0ywq3zb43dc"
+    },
+    "categories": {
+      "auth": {
+        "authcognitoe5aba960": {}
+      }
+    }
+  }
+}
